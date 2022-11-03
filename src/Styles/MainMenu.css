@@ -1,0 +1,24 @@
+.row{
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    justify-content: center;
+}
+
+.col-sm-3{
+    border: 2px solid white;
+
+    color:white;
+text-transform: uppercase;
+    font-size: 24px;
+}
+
+.col-sm-3:hover{
+   color:black;
+
+   background-color:white;
+
+
+   transform: scale(1.025);
+   box-shadow: rgb(160, 0, 0) 5px;
+}

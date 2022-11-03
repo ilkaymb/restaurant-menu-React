@@ -1,0 +1,25 @@
+.price{
+    background-color:rgb(160, 0, 0);
+    text-align: right;
+    margin: 0;
+    padding-right: 15px;
+}
+.image{
+    background-color: white;
+}
+
+.card-text{
+    font-size: 18px;
+}
+
+#Menu-Card:hover{
+   transform: scale(1.025);
+}
+
+#Menu-Card{
+    margin: 20px;
+ }
+
+ .card{
+    border: 1px solid white;
+ }
